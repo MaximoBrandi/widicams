@@ -85,7 +85,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-An innovative access control app with face recognition as its main feature. Offers a simple and secure way to regulate access to buildings, offices, and other facilities. The app recognizes registered user faces, granting them access with no physical contact or hardware involved. It also ensures that all visitor access is logged and tracked in real-time and display's alerts when it detects discrepancies.
+An innovative access control app with face recognition as its main feature. Offers a simple and secure way to regulate access to buildings, offices, and other facilities. The app recognizes registered user faces, granting them access with non human interaction involved. It also ensures that all visitor access is logged and tracked in real-time and display's alerts when it detects discrepancies.
 Besides its face recognition function, the app also enables users to assign different access rights based on their roles or the type of facility they need to access. So everyone gets the exact level of access they need at any given time.
 
 Offers:
