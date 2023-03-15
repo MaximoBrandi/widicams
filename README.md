@@ -37,7 +37,7 @@
   <h3 align="center">WidiCams</h3>
 
   <p align="center">
-    IA-Powered access control system
+    Reliable and simple IA-Powered access control system
     <br />
     <a href="https://github.com/MaximoBrandi/widicams"><strong>Explore the docs »</strong></a>
     <br />
