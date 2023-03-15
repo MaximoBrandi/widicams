@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MaximoBrandi/widicams">
-    <img src="[images/logo.png](https://i.ibb.co/4JzWkBZ/WIDi.png)" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/4JzWkBZ/WIDi.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">WidiCams</h3>
@@ -211,6 +211,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/MaximoBrandi/widicams/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: [images/screenshot.png](https://pbs.twimg.com/media/FpRiLwkaEAAMGKH?format=jpg&name=medium)
+[product-screenshot]: https://pbs.twimg.com/media/FpRiLwkaEAAMGKH?format=jpg&name=medium
 [Python]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Blue_Python_3.9_Shield_Badge.svg/76px-Blue_Python_3.9_Shield_Badge.svg.png
 [Python-url]: https://www.python.org/
