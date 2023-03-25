@@ -183,6 +183,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 - [ ] Database connection system
 - [ ] Database schemas configuration
 - [ ] OpenCV face recognition joint with database information
+- [ ] OpenCV face recognition joint with nvr video information
 - [ ] Command-line interaction
 
 ## Planned
