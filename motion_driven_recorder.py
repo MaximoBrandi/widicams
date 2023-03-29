@@ -2,6 +2,7 @@ from system.log_support import init_logger
 import time
 import cv2 as cv
 from system.motion_detection import MotionDetector
+import imutils
 import config
 import datetime as dts
 import numpy as np
