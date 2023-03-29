@@ -1,6 +1,7 @@
 import os
 import logging
 
+
 APP_ROOT = os.path.dirname(os.path.abspath(__file__))
 
 #######################
@@ -35,8 +36,8 @@ LOG_TO_CONSOLE = True
 #################################
 #   motion detection settings   #
 #################################
-INITIAL_WAIT_INTERVAL_BEFORE_MOTION_DETECTION_SECS = 5
-MINIMAL_MOTION_DURATION = 10
+INITIAL_WAIT_INTERVAL_BEFORE_MOTION_DETECTION_SECS = 3
+MINIMAL_MOTION_DURATION = 5
 
 ##########################
 #   recording settings   #

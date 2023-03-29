@@ -7,7 +7,7 @@ from system.shared import makeAbsoluteAppPath, mkdir_p
 import signal
 from nvr_classes.motion_driven_recorder import MotionDrivenRecorder
 import threading
-
+import queue
 
 nvr_thread = None
 quit_loop = False
@@ -41,7 +41,7 @@ class NVRThread(threading.Thread):
         self._processor.start()
 
         print("nvr thread id = {}".format(threading.current_thread().ident))
-        print "Done"
+        print("Done")
 
     def add_stop_request(self):
         self._processor.add_stop_request()
